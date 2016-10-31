@@ -1,4 +1,10 @@
 Diese Textdatei kommt von einem fremden Mituser.
 
+
+Ich mache heute auch eine wichtige Änderung in den Text.
+
 31.10.2016: Hier kommt ein Ergänzungstext.
 Gaaaaaaaaaaaaaaaanz wichtig !
+
+=> Es sollen beide Ergänzungen beibehalten werden
+
